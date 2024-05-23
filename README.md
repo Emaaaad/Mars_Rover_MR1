@@ -3,7 +3,8 @@
 This repository contains the PDDL (Planning Domain Definition Language) files for a Mars Rover domain, which simulates the activities of a rover on Mars. The rover is tasked with navigating between various locations, collecting data using different instruments, processing the data, and transmitting it back to the Mars station. The domain and problem files are compatible with the BFWS--FF--parser version available at [Planning Domains](https://editor.planning.domains/#).
 
 ## Author:
-[Seyed Emad Razavi](https://github.com/Emaaaad)
+
+### [Seyed Emad Razavi](https://github.com/Emaaaad)
 
 ## Running the Code
 
