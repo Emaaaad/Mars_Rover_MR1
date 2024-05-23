@@ -4,7 +4,7 @@ This repository contains the PDDL (Planning Domain Definition Language) files fo
 
 ## Author:
 
-### [Seyed Emad Razavi](https://github.com/Emaaaad)
+### [Emad Razavi](https://github.com/Emaaaad)
 
 ## Running the Code
 
